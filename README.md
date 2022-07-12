@@ -3,7 +3,7 @@
 
 - [ ] chapter 2
 
-房屋预测
+- 房屋预测
 
 - [ ] chapter 3
 
